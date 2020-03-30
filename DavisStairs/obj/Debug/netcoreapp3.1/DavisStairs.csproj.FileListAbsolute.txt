@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\obj\Debug\netcoreapp3.1\DavisStairs.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\obj\Debug\netcoreapp3.1\DavisStairs.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\obj\Debug\netcoreapp3.1\DavisStairs.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\obj\Debug\netcoreapp3.1\DavisStairs.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\bin\Debug\netcoreapp3.1\DavisStairs.exe
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\bin\Debug\netcoreapp3.1\DavisStairs.deps.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\bin\Debug\netcoreapp3.1\DavisStairs.runtimeconfig.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\bin\Debug\netcoreapp3.1\DavisStairs.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\bin\Debug\netcoreapp3.1\DavisStairs.dll
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\bin\Debug\netcoreapp3.1\DavisStairs.pdb
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\obj\Debug\netcoreapp3.1\DavisStairs.dll
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\obj\Debug\netcoreapp3.1\DavisStairs.pdb
+C:\Users\Maxim\Desktop\Programming\HackerRank\DavisStairs\obj\Debug\netcoreapp3.1\DavisStairs.genruntimeconfig.cache

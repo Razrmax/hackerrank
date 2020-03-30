@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\bin\Debug\netcoreapp3.1\Day7_Arrays.exe
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\bin\Debug\netcoreapp3.1\Day7_Arrays.deps.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\bin\Debug\netcoreapp3.1\Day7_Arrays.runtimeconfig.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\bin\Debug\netcoreapp3.1\Day7_Arrays.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\bin\Debug\netcoreapp3.1\Day7_Arrays.dll
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\bin\Debug\netcoreapp3.1\Day7_Arrays.pdb
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\obj\Debug\netcoreapp3.1\Day7_Arrays.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\obj\Debug\netcoreapp3.1\Day7_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\obj\Debug\netcoreapp3.1\Day7_Arrays.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\obj\Debug\netcoreapp3.1\Day7_Arrays.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\obj\Debug\netcoreapp3.1\Day7_Arrays.dll
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\obj\Debug\netcoreapp3.1\Day7_Arrays.pdb
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day7_Arrays\obj\Debug\netcoreapp3.1\Day7_Arrays.genruntimeconfig.cache

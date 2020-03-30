@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\bin\Debug\netcoreapp3.1\Day9_Recursion.exe
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\bin\Debug\netcoreapp3.1\Day9_Recursion.deps.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\bin\Debug\netcoreapp3.1\Day9_Recursion.runtimeconfig.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\bin\Debug\netcoreapp3.1\Day9_Recursion.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\bin\Debug\netcoreapp3.1\Day9_Recursion.dll
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\bin\Debug\netcoreapp3.1\Day9_Recursion.pdb
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\obj\Debug\netcoreapp3.1\Day9_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\obj\Debug\netcoreapp3.1\Day9_Recursion.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\obj\Debug\netcoreapp3.1\Day9_Recursion.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\obj\Debug\netcoreapp3.1\Day9_Recursion.dll
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\obj\Debug\netcoreapp3.1\Day9_Recursion.pdb
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\obj\Debug\netcoreapp3.1\Day9_Recursion.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\Programming\HackerRank\Day9_Recursion\obj\Debug\netcoreapp3.1\Day9_Recursion.csprojAssemblyReference.cache
